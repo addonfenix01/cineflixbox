@@ -4,15 +4,6 @@
 
 
 
-  
-<channel>
-<name>[COLOR red] == [/COLOR]ADDON [COLOR green] CINE[/COLOR][COLOR red]FLIXBOX[/COLOR] ADDON CINEFLIXBOX´PRA COLABORADORES DO GRUPO FLIXBOX[COLOR red] === [/COLOR]</name>
-<thumbnail>https://archive.org/download/cineflixboxfilmes2026/icone.png</thumbnail>
-<fanart>https://archive.org/download/cineflixboxfilmes2026/fanart.png</fanart>
-<info>[COLOR red] Sejam Bem vindos ao Addon CineFlixBox [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/entrada.xml</externallink>
-</channel>
-
 <channel>
 <name>[COLOR red] == [/COLOR]ADDON [COLOR green] CINE[/COLOR][COLOR red]FLIXBOX[/COLOR] FILMES 2026 [COLOR red] === [/COLOR]</name>
 <thumbnail>https://archive.org/download/cineflixboxfilmes2026/cineflixboxfilmes2026.png</thumbnail>
