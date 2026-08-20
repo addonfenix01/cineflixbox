@@ -4,21 +4,19 @@
 
 
 
-
-  
 <item>
-  <title>Lanternas - 1ª Temporada (2026)</title>
-  <link>plugin://plugin.video.elementum/play?uri=magnet%253A%253Fxt%253Durn%253Abtih%253Aohusgksfjakdipwf7lowyjwaqba532yp&nome=Episódio 1</link>
+  <title>Lanternas 1ª Temporada (2026)</title>
+  <link>plugin://plugin.video.elementum/play?uri=magnet%2525253A%2525253Fxt%2525253Durn%2525253Abtih%2525253Aohusgksfjakdipwf7lowyjwaqba532yp$$lsname=Episódio 1</link>
   <thumbnail>https://image.tmdb.org/t/p/original/wiF1C97GuJEOBSKWrtub517THjF.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg</fanart>
   <info>Dois policiais intergalácticos, o recruta novato John Stewart e o lendário Lanterna Verde Hal Jordan, se veem envolvidos em um mistério sombrio que se passa na Terra enquanto investigam um assassinato no coração dos Estados Unidos.</info>
-</item>  
+</item>
 
 <item>
-  <title>Sugar - 2ª Temporada (2026)</title>
-  <link>plugin://plugin.video.elementum/play?uri=magnet%253A%253Fxt%253Durn%253Abtih%253A5il2iirr4uwzzjiq2iohhbm4hocf75cb&nome=Episódio 1</link>
-  <link>plugin://plugin.video.elementum/play?uri=magnet%253A%253Fxt%253Durn%253Abtih%253Ajca2g3e6lk5a56nabp5whdjsoogoxdiq&nome=Episódio 2</link>
-  <link>plugin://plugin.video.elementum/play?uri=magnet%253A%253Fxt%253Durn%253Abtih%253Azp7wxsv2dto4s34n3xwoxmd43ls4dqeu&nome=Episódio 3</link>
+  <title>Sugar 2ª Temporada (2026)</title>
+  <link>plugin://plugin.video.elementum/play?uri=magnet%25253A%25253Fxt%25253Durn%25253Abtih%25253A5il2iirr4uwzzjiq2iohhbm4hocf75cb$$lsname=Episódio 1/2</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet%25253A%25253Fxt%25253Durn%25253Abtih%25253Ajca2g3e6lk5a56nabp5whdjsoogoxdiq$$lsname=Episódio 3</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet%25253A%25253Fxt%25253Durn%25253Abtih%25253Azp7wxsv2dto4s34n3xwoxmd43ls4dqeu$$lsname=Episódio 4</link>
   <thumbnail>https://image.tmdb.org/t/p/original/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg</fanart>
   <info>John Sugar é um charmoso detetive particular que percorre cantos sombrios da ensolarada LA. Embora enxergue apenas o lado bom da humanidade, Sugar é assombrado por um segredo perigoso demais para revelar.</info>
