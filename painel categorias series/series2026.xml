@@ -10,9 +10,9 @@
 
 <item>
   <title>[COLOR silver][B] LANTERNAS - 1ª TEMPORADA [/COLOR][/B]</title>
-  <link>plugin://plugin.video.elementum/play?uri=magnet%3A%3Fxt%3Durn%3Abtih%3Aohusgksfjakdipwf7lowyjwaqba532yp$$lsname=[COLOR silver][B] LANTERNAS  [/COLOR][/B] EP. 01</link>
-  <thumbnail>https://image.tmdb.org/t/p/original/wiF1C97GuJEOBSKWrtub517THjF.jpg</thumbnail>
-  <fanart>https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg</fanart>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ohusgksfjakdipwf7lowyjwaqba532yp$$lsname=[COLOR silver][B] LANTERNAS  [/COLOR][/B] EP. 01</link>
+  <thumbnail>https://media.themoviedb.org/t/p/original/wiF1C97GuJEOBSKWrtub517THjF.jpg</thumbnail>
+  <fanart>https://media.themoviedb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg</fanart>
   <info>Dois policiais intergalácticos, o recruta novato John Stewart e o lendário Lanterna Verde Hal Jordan, se veem envolvidos em um mistério sombrio que se passa na Terra enquanto investigam um assassinato no coração dos Estados Unidos.</info>
 </item>
 
@@ -28,7 +28,16 @@
 </info>
 </item>
 
-
+<item>
+  <title>[COLOR silver][B] STUART NÃO CONSEGUE SALVAR O UNIVERSO - 1ª TEMPORADA [/COLOR][/B]</title>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bqka6evh27r47klxrrv3gqtmv2npyet5$$lsname=[COLOR silver][B] STUART NÃO CONSEGUE SALVAR O UNIVERSO  [/COLOR][/B] EP. 01</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f2ggeijiaq2fxv4tdjpaond7qty4yvo$$lsname=[COLOR silver][B] STUART NÃO CONSEGUE SALVAR O UNIVERSO  [/COLOR][/B] EP. 02</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ytwbquk5fpfdn2ybavygksm37nxoobxs$$lsname=[COLOR silver][B] STUART NÃO CONSEGUE SALVAR O UNIVERSO  [/COLOR][/B] EP. 03</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:hbkjkpz3l25fdrvy4paad43l73c3bvjm$$lsname=[COLOR silver][B] STUART NÃO CONSEGUE SALVAR O UNIVERSO  [/COLOR][/B] EP. 04</link>
+  <thumbnail>https://media.themoviedb.org/t/p/original/7kqLBWdtCSm3rs8zj38epC6jkjH.jpg</thumbnail>
+  <fanart></fanart>
+  <info>O dono da loja de quadrinhos Stuart Bloom é encarregado de restaurar a realidade após quebrar acidentalmente um dispositivo construído por Sheldon e Leonard, desencadeando um Armagedom no multiverso. Nessa missão, Stuart é auxiliado por sua namorada Denise, pelo amigo geólogo Bert e pelo físico quântico e irritante Barry Kripke.</info>
+</item>
 
 
 
