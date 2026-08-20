@@ -5,8 +5,8 @@
   
 <channel>
 <name>[B][COLOR green] SERIES LANÇAMENTOS [/COLOR] [COLOR lemonade]| 2026[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://archive.org/download/cineflixboxfilmes2026/cineflixboxseries.png</thumbnail>
+<fanart>https://archive.org/download/cineflixboxfilmes2026/cineflixboxseries.png</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/cineflixbox/refs/heads/main/painel%20categorias%20series/series2026.xml</externallink>
 </channel>
