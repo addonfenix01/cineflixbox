@@ -5,10 +5,9 @@
 
 
 
-
 <item>
   <title>REACHER - 1ª TEMPORADA</title>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:magnet:$$lsname=REACHER EP. 01</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn%3Abtih%3Ac21c4e51001d9fa22568b9d72a36c11ac107fe96$$lsname=REACHER EP. 01</link>
   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4653cea33ca2fd890affcfc754bd5bb9c014a61$$lsname=REACHER EP. 02</link>
   <thumbnail>https://media.themoviedb.org/t/p/original/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg</fanart>
