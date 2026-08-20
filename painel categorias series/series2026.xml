@@ -7,7 +7,15 @@
 
 
 <item>
-  <title>[COLOR silver][B] LANTERNAS - 1ª TEMPORADA [/COLOR][/B]</title>
+  <title>LANTERNAS - 1ª TEMPORADAteste1</title>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ohusgksfjakdipwf7lowyjwaqba532yp$$lsname=LANTERNAS EP. 01</link>
+  <thumbnail>https://media.themoviedb.org/t/p/original/wiF1C97GuJEOBSKWrtub517THjF.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg</fanart>
+  <info>Dois policiais intergalácticos, o recruta novato John Stewart e o lendário Lanterna Verde Hal Jordan, se veem envolvidos em um mistério sombrio que se passa na Terra enquanto investigam um assassinato no coração dos Estados Unidos.</info>
+</item>
+
+<item>
+  <title>[COLOR silver][B] LANTERNAS - 1ª TEMPORADAteste2 [/COLOR][/B]</title>
   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ohusgksfjakdipwf7lowyjwaqba532yp$$lsname=LANTERNAS EP. 01</link>
   <thumbnail>https://media.themoviedb.org/t/p/original/wiF1C97GuJEOBSKWrtub517THjF.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg</fanart>
