@@ -11,6 +11,14 @@
 <externallink>https://raw.githubusercontent.com/addonfenix01/cineflixbox/refs/heads/main/painel%20categorias%20series/series2026.xml</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR green] SERIES NETFLIX E HBO MAX [/COLOR] [COLOR yellow]| 2026[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/cineflixboxfilmes2026/cineflixboxseries.png</thumbnail>
+<fanart>https://archive.org/download/cineflixboxfilmes2026/cineflixboxseries.png</fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/cineflixbox/refs/heads/main/painel%20categorias%20series/seriesdiretas.xml</externallink>
+</channel>
+  
   
   
 </channels>
