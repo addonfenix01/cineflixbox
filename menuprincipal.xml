@@ -5,7 +5,7 @@
 
 
 <channel>
-<name>[COLOR purple] == [/COLOR]ADDON [COLOR green] CINE[/COLOR][COLOR yellow]FLIXBOX[/COLOR] FILMES 2026 [COLOR purple] === [/COLOR]</name>
+<name>[COLOR purple] == [/COLOR]ADDON [COLOR green] CINEFLIX[/COLOR][COLOR yellow]BOX[/COLOR] FILMES 2026 [COLOR purple] === [/COLOR]</name>
 <thumbnail>https://archive.org/download/cineflixboxfilmes2026/cineflixboxfilmes2026.png</thumbnail>
 <fanart>https://archive.org/download/cineflixboxfilmes2026/cineflixboxfilmes2026.png</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon CineFlixBox [/COLOR]</info>
@@ -13,13 +13,21 @@
 </channel>
 
 <channel>
-<name>[COLOR orange] == [/COLOR]ADDON [COLOR green] CINE[/COLOR][COLOR yellow]FLIXBOX[/COLOR] SERIES 2026 [COLOR orange] === [/COLOR]</name>
+<name>[COLOR orange] == [/COLOR]ADDON [COLOR green] CINEFLIX[/COLOR][COLOR yellow]BOX[/COLOR] SERIES 2026 [COLOR orange] === [/COLOR]</name>
 <thumbnail>https://archive.org/download/cineflixboxfilmes2026/cineflixboxseries.png</thumbnail>
 <fanart>https://archive.org/download/cineflixboxfilmes2026/cineflixboxseries.png</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon CineFlixBox [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/cineflixbox/refs/heads/main/painel%20categorias%20series/painelcategoriaseries.xml</externallink>
 </channel>
 
+<channel>
+<name>[COLOR purple] == [/COLOR]ADDON [COLOR green] CINEFLIX[/COLOR][COLOR yellow]BOX[/COLOR] TV ONLINE [COLOR purple] === [/COLOR]</name>
+<thumbnail>https://archive.org/download/cineflixboxfilmes2026/cineflixboxfilmes2026.png</thumbnail>
+<fanart>https://archive.org/download/cineflixboxfilmes2026/cineflixboxfilmes2026.png</fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon CineFlixBox [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/cineflixbox/refs/heads/main/tvonline.xml</externallink>
+</channel>
+  
 
 
 
