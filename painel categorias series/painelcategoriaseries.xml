@@ -4,18 +4,18 @@
 
   
 <channel>
-<name>[B][COLOR green] SERIES LANÇAMENTOS [/COLOR] [COLOR yellow]| 2026[/COLOR][/B]</name>
+<name>[B][COLOR green] SERIES LANÇAMENTOS CINEFLIXBOX [/COLOR] [COLOR yellow]| 2026[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/cineflixboxfilmes2026/cineflixboxseries.png</thumbnail>
 <fanart>https://archive.org/download/cineflixboxfilmes2026/cineflixboxseries.png</fanart>
-<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
+<info>[COLOR red] Sejam Bem vindos ao Addon Cineflixbox [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/cineflixbox/refs/heads/main/painel%20categorias%20series/series2026.xml</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR green] SERIES DIRETAS [/COLOR] [COLOR yellow]| 2026[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
+<name>[B][COLOR yellow] SERIES DIRETAS CINEFLIXBOX [/COLOR] [COLOR green]| 2026[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/cineflixboxseriesdiretas1111/cineflixboxseriesdiretas%281%29%281%29%281%29%281%29.png</thumbnail>
+<fanart>https://archive.org/download/cineflixboxseriesdiretas1111/cineflixboxseriesdiretas%281%29%281%29%281%29%281%29.png</fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon Cieflixbox [/COLOR]</info>
 <externallink></externallink>
 </channel>
 
